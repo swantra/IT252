@@ -1,0 +1,6 @@
+git config --global user.name "swantra"
+git config --global user.email tswanson0@gmail.com
+git clone https://github.com/swantra/IT252.git
+git add --all
+git commit -m "Added information about birds, insects, and reptiles."
+git push
